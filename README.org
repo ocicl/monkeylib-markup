@@ -2,9 +2,8 @@
 
 Markup text markup language.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/gigamonkey/monkeylib-markup.git   |
-| commit  | f669367  |
-| systems | monkeylib-markup |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/gigamonkey/monkeylib-markup.git |
+| commit  | f669367                                                |
+| systems | com.gigamonkeys.markup                                 |
+|---------+--------------------------------------------------------|
